@@ -1,0 +1,17 @@
+c:\users\ignas\documents\visual studio 2015\Projects\ElektroninisDienynas\ElektroninisDienynas\bin\Debug\ElektroninisDienynas.exe.config
+c:\users\ignas\documents\visual studio 2015\Projects\ElektroninisDienynas\ElektroninisDienynas\bin\Debug\ElektroninisDienynas.exe
+c:\users\ignas\documents\visual studio 2015\Projects\ElektroninisDienynas\ElektroninisDienynas\bin\Debug\ElektroninisDienynas.pdb
+c:\users\ignas\documents\visual studio 2015\Projects\ElektroninisDienynas\ElektroninisDienynas\obj\Debug\ElektroninisDienynas.csprojResolveAssemblyReference.cache
+c:\users\ignas\documents\visual studio 2015\Projects\ElektroninisDienynas\ElektroninisDienynas\obj\Debug\ElektroninisDienynas.Properties.Resources.resources
+c:\users\ignas\documents\visual studio 2015\Projects\ElektroninisDienynas\ElektroninisDienynas\obj\Debug\ElektroninisDienynas.csproj.GenerateResource.Cache
+c:\users\ignas\documents\visual studio 2015\Projects\ElektroninisDienynas\ElektroninisDienynas\obj\Debug\ElektroninisDienynas.exe
+c:\users\ignas\documents\visual studio 2015\Projects\ElektroninisDienynas\ElektroninisDienynas\obj\Debug\ElektroninisDienynas.pdb
+C:\Users\Ignas\Documents\Visual Studio 2015\Projects\ElektroninisDienynas\ElektroninisDienynas\obj\Debug\ElektroninisDienynas.CreateEntry.resources
+C:\Users\Ignas\Documents\Visual Studio 2015\Projects\ElektroninisDienynas\ElektroninisDienynas\obj\Debug\ElektroninisDienynas.ChooseRequirement.resources
+C:\Users\Ignas\Documents\Visual Studio 2015\Projects\ElektroninisDienynas\ElektroninisDienynas\obj\Debug\ElektroninisDienynas.ViewEntry.resources
+C:\Users\Ignas\Documents\Visual Studio 2015\Projects\ElektroninisDienynas\ElektroninisDienynas\obj\Debug\ElektroninisDienynas.UpdateEntry.resources
+C:\Users\Ignas\documents\visual studio 2015\Projects\ElektroninisDienynas\ElektroninisDienynas\obj\Debug\ElektroninisDienynas.Main.resources
+C:\Users\Ignas\documents\visual studio 2015\Projects\ElektroninisDienynas\ElektroninisDienynas\obj\Debug\ElektroninisDienynas.DeadlineForm.resources
+C:\Users\Ignas\documents\visual studio 2015\Projects\ElektroninisDienynas\ElektroninisDienynas\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Ignas\documents\visual studio 2015\Projects\ElektroninisDienynas\ElektroninisDienynas\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Ignas\documents\visual studio 2015\Projects\ElektroninisDienynas\ElektroninisDienynas\bin\Debug\HtmlAgilityPack.xml
